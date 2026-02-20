@@ -31,7 +31,7 @@ To understand consumer behavior and identify insights useful for marketing strat
 
 
 🎥 Video Walkthrough
-[([Add video link](https://drive.google.com/file/d/1AiT856XS8Qw_yT1Ff6v9kZ68vgdpAXhA/view?usp=drive_link))]
+[([Demo video link](https://drive.google.com/file/d/1AiT856XS8Qw_yT1Ff6v9kZ68vgdpAXhA/view?usp=drive_link))]
 
 💡 Business Use Case
 Useful for marketing teams, café chains, and beverage brands to understand customer preferences and improve targeting.
